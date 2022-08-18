@@ -2,6 +2,7 @@
 This product, or GUI desktop application, lets users to encrypt as well as decrypt files and folders to provide security and privacy. Also, the code is entirely written in Python.
 
 To run the code you need to fulfill these requirements:
+
 altgraph==0.17
 
 certifi==2021.5.30
