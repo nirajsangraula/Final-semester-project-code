@@ -42,3 +42,9 @@ urllib3==1.26.6
 wincertstore==0.2
 
 yarg==0.1.9
+
+
+
+
+Cryptography library - https://pypi.org/project/cryptography/
+Follow this video - https://www.youtube.com/watch?v=LmhOcdewJU4&ab_channel=BroCode to convert py to exe
