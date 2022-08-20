@@ -203,7 +203,7 @@ def progbar():
 
 # Menu Bar
 def openweb():
-    webbrowser.open('github', 1)
+    webbrowser.open('https://github.com/nirajsangraula/Final-semester-project-code.git', 1)
 
 
 def aboutproj():
